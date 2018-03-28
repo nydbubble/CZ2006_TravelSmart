@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtGo">Go</string>
+    <string name="txtPrivate">Private</string>
+    <string name="txtPublic">Public</string>
+    <string name="txtDestination">Destination…</string>
+    <string name="txtUIShow"><![CDATA[>]]></string>
+    <string name="txtUIHide"><![CDATA[<]]></string>
+    <string name="txtLTA">LTA</string>
+
+</resources>
